@@ -1,0 +1,12 @@
+#canvas {
+    background-color: dodgerblue;
+    border-style: ridge;
+    border-color: lightskyblue;
+    border-radius: 24px;
+    border-width: 24px;
+}
+
+button {
+    border-color: dodgerblue;
+    background-color: lightskyblue;
+}
